@@ -4,4 +4,4 @@ Este respositório foi criado para o compartilhamento dos códigos desenvolvidos
 
 ## Links Úteis:
 
-LinkedIn : [LinkedIn] (linkedin.com/in/lucas-costa-a3206318b/)
+LinkedIn : [LinkedIn](linkedin.com/in/lucas-costa-a3206318b/)
