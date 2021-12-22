@@ -1,0 +1,3 @@
+Me chamo Lucas e tenho 19 anos, sou estudante do curso de Sistemas de Informação, atualmente no 4° semestre. Desde os 17 anos decidi me tornar um programador, devido ao curso Técnico em Eletroeletrônica que fiz, no SENAI, onde eu aprendi programação de micro controladores como o arduino, ESP32, micro contoladores da familia PIC e ATMEGA.
+
+Esta é uma breve apresentação sobre mim e como ingressei no mundo da programação.
